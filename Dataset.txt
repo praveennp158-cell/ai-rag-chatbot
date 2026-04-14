@@ -1,0 +1,171 @@
+Artificial Intelligence (AI) is the simulation of human intelligence in machines that are programmed to think and learn.
+
+Machine Learning is a subset of AI that allows systems to learn from data without being explicitly programmed.
+
+Deep Learning is a subset of machine learning that uses neural networks with many layers.
+
+Natural Language Processing (NLP) is a field of AI that focuses on the interaction between computers and human language.
+
+Computer Vision is an AI field that enables machines to interpret and understand visual information.
+
+Supervised Learning is a type of machine learning where the model is trained on labeled data.
+
+Unsupervised Learning is a type of machine learning where the model finds patterns in unlabeled data.
+
+Reinforcement Learning is a type of learning where an agent learns by interacting with the environment.
+
+A dataset is a collection of data used for training and testing models.
+
+Data preprocessing is the process of cleaning and preparing data.
+
+Feature engineering involves selecting and transforming variables for better model performance.
+
+Overfitting occurs when a model performs well on training data but poorly on new data.
+
+Underfitting occurs when a model is too simple to capture patterns in data.
+
+Accuracy is a metric used to evaluate model performance.
+
+Precision measures the correctness of positive predictions.
+
+Recall measures how many actual positives were identified.
+
+F1 score is the harmonic mean of precision and recall.
+
+Neural networks are computational models inspired by the human brain.
+
+A neuron in a neural network processes inputs and produces an output.
+
+Activation functions determine the output of a neuron.
+
+Common activation functions include ReLU, sigmoid, and tanh.
+
+Training a model involves feeding data and adjusting parameters.
+
+Testing evaluates model performance on unseen data.
+
+Validation helps tune model parameters.
+
+Big data refers to large and complex datasets.
+
+Cloud computing provides remote servers for storage and processing.
+
+Python is widely used for AI and machine learning.
+
+Popular AI libraries include TensorFlow, PyTorch, and scikit-learn.
+
+Data science combines statistics, programming, and domain knowledge.
+
+Exploratory Data Analysis (EDA) helps understand data patterns.
+
+Regression is used to predict continuous values.
+
+Classification is used to predict categories.
+
+Clustering groups similar data points.
+
+K-means is a clustering algorithm.
+
+Decision trees are models that split data based on conditions.
+
+Random forests are ensembles of decision trees.
+
+Gradient boosting improves model accuracy.
+
+Support Vector Machines (SVM) are used for classification tasks.
+
+Natural language models generate human-like text.
+
+Chatbots use NLP to interact with users.
+
+Speech recognition converts speech into text.
+
+Image recognition identifies objects in images.
+
+Recommendation systems suggest items based on user behavior.
+
+Autonomous systems can operate without human intervention.
+
+Ethics in AI involves fairness and transparency.
+
+Bias in data can affect model outcomes.
+
+Explainable AI helps understand model decisions.
+
+Data privacy is important in AI systems.
+
+Cybersecurity protects systems from attacks.
+
+Edge computing processes data near the source.
+
+IoT devices collect and transmit data.
+
+Smart cities use AI for efficient management.
+
+Healthcare uses AI for diagnosis and treatment.
+
+Finance uses AI for fraud detection.
+
+Education uses AI for personalized learning.
+
+Retail uses AI for customer recommendations.
+
+Robotics combines AI with physical machines.
+
+Automation reduces human effort.
+
+AI agents can perform tasks autonomously.
+
+Human-AI collaboration improves productivity.
+
+The future of AI includes advanced automation and intelligence.
+
+Photosynthesis is the process by which plants convert sunlight into energy.
+
+Water is essential for all living organisms.
+
+The human brain controls body functions.
+
+Electricity powers modern technology.
+
+The internet connects people worldwide.
+
+Software is a set of instructions for computers.
+
+Hardware refers to physical components of a computer.
+
+Algorithms are step-by-step procedures to solve problems.
+
+Data structures organize and store data efficiently.
+
+Operating systems manage computer resources.
+
+Databases store structured information.
+
+APIs allow communication between systems.
+
+Web development involves building websites.
+
+Mobile apps run on smartphones.
+
+Cybersecurity protects data and systems.
+
+Encryption secures communication.
+
+Blockchain is a distributed ledger technology.
+
+Cryptocurrency is digital money.
+
+Virtual reality creates immersive environments.
+
+Augmented reality overlays digital content.
+
+5G enables faster communication.
+
+Quantum computing is the future of computing.
+
+Innovation drives technological growth.
+
+Problem-solving is key in AI development.
+
+Learning never stops in technology.
